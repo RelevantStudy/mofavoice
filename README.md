@@ -1,12 +1,8 @@
-# MoFA Voice Hackathon 
+# MoFA Voice 黑客马拉松大赛
 
-MoFA Voice is a GOSIM Super Agent Hackathon. In this event, you will:
+MoFA Voice 是GOSIM开源创新汇超级智能体大赛（a GOSIM Super Agent Hackathon）的赛事。在这次比赛中，您将挑战用 AI 语音创造更具情感的体验！
 
-Building Conversational Artificial Intelligence, enpower human Creativity, Artistry, and empathy.  🎙️✨
-
-🚀 创造语音人工智能，让它成为生活里的温暖陪伴。激发你的创造力，抒发艺术潜能，让人与人之间的共情更深 。
-
-🔹 你的挑战：用 AI 语音创造更具情感的体验！
+🚀 创造语音人工智能，让它成为生活里的温暖陪伴。激发你的创造力，抒发艺术潜能，让人与人之间的共情更深 。Building Conversational Artificial Intelligence, empowers human Creativity, Artistry, and empathy.  🎙️✨
 
 AI 语音技术不仅仅是对话，更是一种媒介、一种陪伴方式、一种沉浸式表达。在MoFA Voice Hackathon，我们邀请你探索 AI 语音的创造力与情感深度，将声音变成最具温度的 AI 体验。
 
@@ -20,7 +16,6 @@ AI 语音技术不仅仅是对话，更是一种媒介、一种陪伴方式、�
 - 让 AI 分析文本，找出知识点和典故。再把文本放在历史长河，宇宙空间里，上下五千年，综合五万里来讲相关的故事，再让AI娓娓到来。
 - 让 AI 分析文本，转化成 AI 脱口秀。
 - 让 AI 分析文本，转化成相声。
-
 
 #### 👉 🎶 VI Voice + 音乐合成
 
